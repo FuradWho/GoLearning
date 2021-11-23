@@ -5,11 +5,955 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04748a11-6e0c-4786-9384-0a119cea24aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/1号，求月票.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/一号求月票.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/关于加更规则.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/劳动节，求月票.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/四更完毕，上月欠更补齐.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/昨天那章已修改.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1001章 请宫主回宫（两万四月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1005章 请死.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1008章 不战而败.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1009张 西华圣山末日（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1014章 传奇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1015章 时代序幕.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1017章 带回的消息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1018章 再临上界.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1019章 裴千影的仇恨.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1023章 离阳剑圣.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1024章 圣下之极，公主近侍.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1028章 萧氏（三万三月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1029章 夏皇界顶尖势力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1032章 寿宴.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1033章 公主态度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1037章 圣下第一人？（补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1045章 神州历史.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1046章 真相刺人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1047章 领军之人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1053章 大理国师.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1054章 无耻之极.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1055章 算计.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1061章 牺牲？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1063章 奔袭和战场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1067章 胜负已定.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1071章 空界之战终.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1072章 封赏.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1074章 离爻的杀念.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1077章 玄机山上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1080章 拼杀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1083章 通敌？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1086章 剑意.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1088章 纯粹的‘剑修’.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1092章 口若悬河.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1093章 律川.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1095章 雕爷招惹谁了？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1105章 不讲规矩（4万7月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1108章 巅峰聚会（5万月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1109章 大离三大修行圣地.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1111章 忉利山求道.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1119章 大离皇朝圣下第一人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1120章 入国师府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1121章 国师弟子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第11281章 遇熟人（补更2）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1131章 妖圣凿齿.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1135章 我去接人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1141章 离爻得到的消息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1148章 见萧笙.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1152章 认罪.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1154章 萧笙之死.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1155章 讨债.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1160章 女魔头？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1161章 皇子驾临.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1163章 五皇子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1165章 扑所迷离.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1166章 幻海.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1176章 一个女孩引发的血案.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1177章 荒谬（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1178章 别有用心（补更1）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1182章 赌龙（求月票）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1185章 猎龙（求月票）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1187章 困龙升天（补更4）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1188章 挖墙脚.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1191章 夺城.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1195章 赤河.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1197章 空界之战的延续.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1200章 针对.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1204章 赤河之战终.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1205章 争锋相对.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1206章 寻盟（补更7）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1207章 书信和大皇子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1213章 颜渊战死神（补八）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1214章 拜师.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1215章 绝望的离爻.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1216章 挣扎.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1220章 大离皇宫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1223章 一步破境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1224章 国师二弟子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1226章 夏皇态度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1233章 两女之战（3千月票加更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1234章 离开.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1239章 太阳城堡（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1240章 九人间的对决（六千月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1254章 战斗爆发.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1256章 借道（三更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1257章 吴庸战七涅槃（四更，补三）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1260章 炼涅槃.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1261章 归顺.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1268章 醒来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1270章 落花有意.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1273章 聆听.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1275章 切磋.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1276章 公主之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1279章 华而不实.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1280章 我希望你胜.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1284章 领悟最强.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1285章 长戟所指.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1286章 绝代.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1287章 神武路.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1290章 平历史.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1291章 桃花宴真意.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1293章 联手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1296章 意志再现.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1297章 杀意.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1300章 战书.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1303章 压制.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1306章 必杀之剑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1309章 不原谅.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1312章 幕后黑手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1314章 联手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1316章 兵临城下.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1317章 逼迫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1322章 始终.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1326章 碾压.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1327章 落幕.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1332章 人皇领地.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1335章 为了家族.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1347章 风云际会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1348章 神山.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1349章 承天雷.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1350章 所向披靡.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1351章 陆羽.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1356章 天谕界巅峰势力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1359章 失落.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1361章 青羊宫主.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1364章 雕爷归来（补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1366章 棍法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1367章 内讧(补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1368章 摩擦.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1369章 破阵.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1370章 紫霄天宫出手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1371章 狂暴太子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1377章 顾天行的生死（3k月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1378章 先知（6K月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1379章 先知预言.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1385章 冲突.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1386章 让出来？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1390章 象皇骨.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1392章 汇聚（一万二月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1395章 我还没看过呢.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1396章 吞噬.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1397章 夺尸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1398章 吞入口中.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1402章 围攻.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1403章 人皇威胁.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1406章 陆续破境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1409章 阵图.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1410章 欲造新王.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1412章 皇骨之争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1416章 外界变化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1417章 紫霄天宫盛事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1421章 李霸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1424章 拒绝.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1425章 神朝太子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1426章 这里没你的位置（补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1428章 仅此？（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1429章 道体至尊（补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1430章 天道神体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1436章 王衍兵.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1437章 一日修行，胜过一年.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1438章 女人就是麻烦（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1446章 不入仙门，不归.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1448章 豁达.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1449章 太子拜访.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1452章 威压.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1454章 你想死吗？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1460章 老实呆着吧.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1461章 新的希望.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1466章 玄天阁.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1468章 玄天阵.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1470章 阵破.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1471章 一瞬？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1472章 上霄神宫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1478章 谜.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1479章 谁在战斗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1480章 决心.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1483章 谁能盖世无双.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1484章 师徒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1486章 梵净天上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1489章 洒脱.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1498章 不简单.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1499章 成人之美.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1500章 太玄山.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1502章 嘱咐.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1506章 美好中的悲伤.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1509章 有朋自远方来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1510章 闹事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1512章 看清楚了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1518章 道海.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1522章 照顾小孩.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1523章 打劫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1527章 生命之泉.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1530章 无人能上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1541章 解剑山.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1546章 剑道之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1547章 一剑破万法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1550章 一步跨过？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1552章 不得不修行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1553章 黄钟.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1554章 天地有缺.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1558章 再战盖十世.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1564章 诸皇出现（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1572章 一个故事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1578章 背叛.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1583章 现身.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1585章 生死之抉择.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1587章 三百五十年.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1588章 神之遗迹.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1590章 遗迹之城.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1591章 汇合.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1592章 九界.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1594章 万象界势力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1595章 我主人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1596章 接回.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1602章 混战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1606章 极限战斗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1609 遗迹归属.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1610章 选择.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1619章 暴露.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1620章 自己人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1626章 全胜.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1636章 绝对压制.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1638章 你承受得起一剑吗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1642章 死亡威胁.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1644章 陨.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1651章 离间与挑拨.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1653章 天生异象.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1661章 狂妄的想法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1663章 代师收徒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1665章 召集.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1668章 无极之瞳.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1670章 这无耻之徒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1671章 坑蒙拐骗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1672章 萧沐渔的蜕变.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1678章 入伙.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1682章 出发.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1683章 兵临城下.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1684章 围.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1695章 书院成立.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1698章 神族底蕴？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1700章 找人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1703章 毁灭.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1704章 九界震动.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1707掌 神说.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1721章 温暖.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1723章 神州历一万零四十年.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1724章 暗流.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1725章 消失的势力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1730章 帝乌.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1736章 道体神胎.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1748章 既往不咎？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1749章 一剑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1751章 他是谁？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1752章 前来要人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1755章 黑暗下的酒楼.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1756章 强势.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1757章 各方来援.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1759章 宣战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1760章 两大圣地的联手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1762章 天谕书院之争.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1763章 夏虫不可语冰.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1766章 压制.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1767章 强大的对手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1768章 余生出战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1771章 统治力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1775章 距离.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1779章 黄金神国动作.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1789章 神剑至.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1793章 孤舟.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1794章 道祖杀戮.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1797章 绝对掌控.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1800章 对话.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1801章 下界.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1803章 三见.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1804章 重定秩序.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1806章 良苦用心.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1808章 主动邀请.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1812章 太阴末日.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1813章 太阴界的神物.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1815章 降临.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1827章 融合.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1835章 一剑杀六人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1838章 大势.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1841章 无敌.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1843章 杀招.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1846章 压迫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1850章 插翅难飞.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1853章 毁灭之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1854章 死期.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1857章 离去，归来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1863章 发现.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1864章 杀神.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1865章 灭森罗府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1871章 显圣.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1873章 同意取代（补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1877章 强势.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1878章 决断.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1882章 炼剑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1885章 蓬莱大陆.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1890章 杀无赦.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1894章 东仙门.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1897章 隐而不露.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1901章 死亡岛.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1903章 斩妖蛇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1907章 凤鸣.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1908章 幻空域.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1915章 金刚伏魔律.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1917章 出手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1921章 剑法无间.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1927章 入棋局.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1928章 你们一起吧.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1929章 你也还行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1932章 神丹.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1933章 邀请.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1935章 融合.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1936章 第二岛主.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1938章 神焰归属.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1943章 神树显现.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1946章 落幕.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1950章 阴阳图.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1954章 丹皇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1956章 望都.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1958章 狂言.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1959章 水平太低.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1962章 邀请.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1968章 不给面子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1973章 杀入.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1975章 混乱之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1984章 域主府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1989章 故事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1990章 崖壁.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第1997章 各方强者.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2003章 针对.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2007章 记忆缺失.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2009章 府主的邀请.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2011章 指点.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2012章 第一圣地.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2020章 检测.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2023章 名声初显.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2026章 风云际会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2030章 封神决.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2032章 风云人物.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2033章 陈一.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2034章 最强对手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2036章 不可敌.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2037章 风魔.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2039章 神曲太华.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2042章 联手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2043章 群战？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2045章 妖山.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2046章 悸动.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2050章 杀戮.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2054章 不可一世.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2058章 自寻死路.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2061章 必死无疑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2063章 背阙而来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2064章 代大帝执法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2068章 大开杀戒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2069章 送死之人？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2077章 人皇如蝼蚁.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2078章 龟仙岛潜修.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2082章 杀戮.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2083章 枪.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2084章 全军覆没.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2086章 四方村.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2089章 巧合？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2091章 嚣张少年.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2092章 七大神法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2098章 心狠手辣.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2103章 四大家.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2107章 谁被驱逐？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2108章 寻找.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2112章 倨傲态度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2118章 不愿离去.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2120章 承认.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2124章 锁城.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2127章 入世.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2128章 风波再起.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2131章 神秘大师.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2133章 反杀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2134章 狂妄大师.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2135章 上钩.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2138章 结交.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2148章 来访.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2150章 苍原大陆.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2151章 冲突.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2153章 后土神印.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2154章 虐待.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2156章 穿行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2158章 世间本无道.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2161章不甘.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2162章 仇敌.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2164章 瞳术.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2168章 满口仁义.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2170章 帝宫回应.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2173章 虚界消息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2174章 府主暗示.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2175章 神陵修行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2177章 神陵崩塌.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2178章 危机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2187章 天谕书院的变化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2194章 不平静.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2196章 宁静的琴音.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2202章 一块石头？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2207章 威慑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2209章 达成一致.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2210章 星空修道场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2213章 吞噬星云.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2228章 错过.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2233章 找到了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2235章 霸道帝宫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2237章 不可承受之力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2243章 威胁.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2245章 似曾相识.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2246章 站队.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2247章 声援.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2251章 神尸之威.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2253章 连续诛杀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2254章 不可敌.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2255章 毁灭一剑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2261章 落幕.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2269章 接替.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2270章 复仇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2271章 地下神力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2272章 覆灭.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2280章 留下.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2283章 想法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2285章 未来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2287章 复仇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2292章 移动的遗迹.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2293章 大帝遗迹？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2294章 复苏的尸体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2297章 大帝活着？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2298章 尸王.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2303章 神音大帝的执念.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2304章 送我回家.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2306章 放弃.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2309章 超乎预想.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2311章 魔帝弟子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2312章 魔躯和神体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2313章 刀意.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2316章 胜负.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2320章 神遗大陆.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2323章 遗族.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2326章 遗族历史.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2332章 挑人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2334章 阵在人在.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2337章 不甘心.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2343章 遗族危机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2344章 遗族底蕴.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2346章 妥协与争夺.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2347章 动乱将至.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2348章 风暴暂平.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2364章 以一敌二.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2365章 不正常.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2366章 战意强烈.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2368章 神女.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2370章 约好了？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2379章 交换.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2382章 炼天神术.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2384章 不肯罢休.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2390章 悲愤.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2393章 暴露.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2397章 星域主宰.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2398章 方儒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2400章 乾坤指.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2405章 闭关.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2407章 四个小辈.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2411章 贵客？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2412章 死劫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2414章 背后的人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2415章 虔诚.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2416章 试探.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2423章 异动.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2424章 开眼.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2430章 各怀鬼胎.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2431章 斗智斗勇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2432章 计杀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2434章 受邀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2436章 消息.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2441章 大战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2442章 相互算计.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2444章 战初禅.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2446章 不肯放手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2450章 围剿.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2451章开杀戒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2454章入地无门.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2455章 别无选择.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2456章 毁灭吧.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2460章 万佛历.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2461章 霸道修士.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2468章 超度？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2469章 大佛.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2471章 效仿东凰.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2472章 佛法修行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2473章 金色海域.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2475章 不动明王法相.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2476章 佛门咒言.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2481章 以彼之道.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2485章 万佛之主.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2488章 真禅归来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2489章 求佛.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2495章 不同的路.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2509章 宁华惨败.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2512章 代价？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2526章 叶伏天的野心.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2527章 公开.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2534章 陆续破境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2536章 恶意.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2541章 摧枯拉朽.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2547章 天焱城.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2553章 炼器大赛.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2555章 大赛背后.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2563章 帝下无双？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2565章 谁是配角.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2568章 携帝兵，踏平紫微.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2572章 对峙.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2576章 何时归.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2579章 神州和紫微.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2587章 诱惑条件.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2591章 陨落旧神.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2592章 全身而退.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2599章 神州两大势力的消失.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2603章 魔界.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2604章 求见魔帝.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2610章 天道惩罚？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2611章 敬佩的对手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2612章 如何选择？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2614章 魔帝的邪恶想法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2619章 世间第一全才.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2620章 破绽.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2621章 不行？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2622章 东凰大帝的初心.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2623章 前行的紫微.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2624章 家事？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2627章 来自黑暗神庭的大人物.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2628章 前往参战？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2629章 死神和天焱城巨子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2630章 战场.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2635章 如何选择？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2639章 斩手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2641章 重生.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2650章 天焱城的恐惧.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2651章 绝望.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2652章 炼器第一人之死.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2654章 奴役.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2656章 七界震动.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2657章 齐至.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2663章 远古神鹏.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2670章 一剑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2672章 迦楼罗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2681章 摩侯罗伽.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2683章 尸山.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2685章 苏醒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2687章 占有.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2693章 后盾.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2694章 委托.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2695章 天道之尺.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2699章 无极神剑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2702章 盖世风华.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2708章 拿什么一战？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2713章 风云际会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2717章 神石奥秘.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2720章 接人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2731章 你敢吗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2732章 联手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2735章 失败了？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2736章 拐回.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2741章 司君.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2746章 对立.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2749章 暴君之名.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2753章 奇女子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2759章 一则传闻.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2767章 药师佛出手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2770章 杀机.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2778章 帝路？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2779章 无形压力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2788章 必杀一击.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2798章 覆灭.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2802章 帝路出现？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2810章 天道为棋？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2821章 封天后？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2822章 无形的压力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2824章 还剩十年.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2833章 大帝退走.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2835章 改变时间.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2837章 时空之力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2841章 东凰出手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2842章 魔帝推测.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2846章 另有隐情？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2854章 审判之神.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2858章 利益分配？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2862章 入侵.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2865章 带走.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2868章 极限.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2869章 攻入人神宫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2875章 枪.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2889章 回来了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2891章 古之神帝.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2893章 信心.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2894章 神帝之死.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2900章 佛法.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2906章 应对.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2907章 降临.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2908章 父子联手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2913章 血腥入侵.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2915章 以杀止杀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第2917章 半年.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百一十九章 圣战开启.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百一十九章 怒（三更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百一十二章 携手而战（九更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百一十八章 第一战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百一十四章 伴舞（求月票）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百一十章 风华宴（七更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百七十一章 兵冢.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百七十二章 多管闲事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百七十五章 强势.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百七十八章 日月.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百三十七章 悬王殿.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百三十八章 荒古界（一更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百三十六章 老实多了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百三十四章 活不了太久.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百九十三章 拉拢.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百九十九章 萧无忌（三更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百九十二章 剑体.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百二十一章 终生难忘（求月票）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百二十五章 人不错.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百二十八章 洛天子改命.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百二十章 望陛下恕罪.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百五十三章 不正常的家伙（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百五十六章 震慑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百八十二章 先贤意志.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百八十五章 千阳之死.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百八十八章 柳沉鱼.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百六十一章 那便死吧.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百六十九章 楼兰古遗迹.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百六十五章 我让你走了吗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百六十八章 你承受不起.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百六十四章 何等轻狂.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百四十九章 降临.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百四十五章 一棍一法相.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百四十章 决战日（三更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百零七章 苍叶书院（四更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第一百零二章 悲壮.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七十三章 余生被打了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七十九章 他的命，我收了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七十二章 花解语命数.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七十六章 堵门.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百一十六章 神秘人的底牌.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百七十一章 百强.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百七十三章 挑衅和反击.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百三十九章 推演.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百三十六章 天龙棋局.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百三十四章 宴会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百九十七章 指点.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百九十五章 抢人？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百九十八章 村子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百九十六章 本宫主.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百二十一章 一个时代的结束.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百二十三章 叶伏天的婚事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百二十九章 目标.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百二十二章 回东荒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百二十五章 新的领袖.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百五十七章 九州问道.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百五十三章 老子是人皇后裔.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百五十二章 空圣弟子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百五十六章 请公主指教.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百五十章 道钟.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百八十一章 拳如旧.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百八十三章 二十四人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百八十六章 爆发的实力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百八十四章 狂暴一战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百六十二章 打破规矩？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百四十五章 再破.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百四十八章 西华圣山之邀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百四十四章 以攻对攻.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百零一章 太行山上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百零九章 前夕.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第七百零四章 残阳如血.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三十一章 义父.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三十七章 雕像和盘龙.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三十九章 我等的人不是你.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三十二章 情窦初开.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三十六章 内忧外患.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百一十七章 秦王朝提亲.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百一十二章 冲突.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百一十四章.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百七十一章 院长的咆哮.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百七十八章 拉拢.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百七十六章 降临书山.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百七十章 媳妇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百三十一章 不可一世的秦禹.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百三十三章 当草堂不讲理.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百九十九章 普通人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百九十五章 东凰再现.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百二十七章 杀念惊天.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百二十二章 登山（三更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百二十六章 阴谋.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百五十一章 惨烈.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百五十七章 十大名曲.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百五十六章 谱写天下.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百五十章 漫天飞雪（补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百八十一章 天山上的魔禽.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百八十九章 活着，不好吗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百八十八章 开杀戒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百八十章 家将.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百六十七章 讽刺.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百六十九章 迁宗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百六十八章 弟妹.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百六十六章 降临望月宗.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百四十一章 据为己有.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百四十九章 极限爆发.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百章 为你送行.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百零七章 战斗力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百零五章 以牙还牙.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百零八章 洛君临之死.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第三百零四章 你可以试试.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百一十一章 兵临城下.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百一十二章 归来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百一十五章 拜会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百一十四章 拭目以待.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百七十三章 出手如雷霆.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百七十八章 死士.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百七十六章 更狂野的一击.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百七十四章 音律之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百三十一章 相亲？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百三十七章 这事大了（三更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百三十五章 一场琴会引发的风波.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百三十六章 愈演愈烈.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百九十三章 各方态度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百九十九章 一个都不能少.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百九十二章 要变天了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百九十五章 怒火.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百二十一章 十八岁的天空.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百二十九章 草堂成名史.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百五十九章 不涨教训.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百八十一章 何惜柔.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百八十六章 书院新人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百八十四章 地点，南斗国.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百六十一章 鸡鸣狗盗之辈？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百六十三章 武道台.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百六十二章 到来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百六十章 抹杀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百四十一章 草堂四弟子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百而十二章 书院.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百零二章 我的世界，岂是你能懂.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第两百零六章 来自悬王殿的杀机（三更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九十一章 洛天子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九十七章 震撼.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九十九章 南斗泰的决定.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九十二章 晴天霹雳.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九十五章 起风波.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百一十一章 三师兄之战（一万五千月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百一十七章 沸腾.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百一十二章 绝对优势.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百一十五章 八重天上.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百一十四章 棍影遮天.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百一十章 倒霉的家伙.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百七十九章 姜圣愿望.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百七十二章 兵临城下.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百三十七章 还债.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百三十二章 正题（两万四月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百九十一章 苍天不饶.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百九十章 杀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百二十三章 我该怎么对你（两万一月票加更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百二十二章 九重天之战（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百二十五章 第二次拒绝.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百五十七章 无双之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百五十二章 孤注一掷.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百八十三章 决战时刻.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百八十二章 你不配.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百八十八章 绝境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百六十一章 谁要拿传承（三万三月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百六十三章 圣下无人（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百六十二章 求死.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百六十六章 局势变化.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百六十章 含笑而去.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百四十一章 月凌霜拜访.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百四十七章 入皇陵.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百四十三章 皇族.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百四十五章 皇陵图.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百四十八章 周圣王和璃圣.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百四十六章 低头难.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百四十四章 两界震动.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百章 决断.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百零五章 登天梯.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第九百零四章 怒火滔天（一万二月票加更章）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第二十八章 脾气不太好.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第二十章 赖着不走.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五十七章 琴魔画圣弟子之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五十二章 仅此而已.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五十章 相见.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百一十三章 想要一座城.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百七十三章 最后六人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百七十五章 三甲.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百七十八章 践踏.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百七十六章 虚空刻箓.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百七十四章 让路？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百三十三章 一步之遥.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百三十二章 杀人者，余生（补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百三十五章 入侵.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百三十六章 第三遗迹开.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百九十七章 天残诀.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百九十三章 第二次.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百九十二章 八等王侯.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百九十六章 斗战贤君.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百二十一章 大战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百二十八章 踏金霄城.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百二十六章 来取吧.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百五十一章 完美的男子.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百五十三章 耍赖（中秋快乐）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百五十九章 叶无尘战败.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百五十五章 极限速度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百五十四章 荒天榜前十.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百八十五章 历史见证者.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百八十八章 误会.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百八十四章 一言为定.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百六十三章 破壁之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百六十二章 破境败敌.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百六十六章 三大命魂拥有者（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百四十二章 大乱战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百四十四章 不关我事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第五百零九章 中州地界.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八十三章 有人来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八十八章 一曲天下.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八十六章 多大的仇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百一十七章 圣战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百一十二章 我选，斩圣.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百七十九章 调解.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百七十二章 战争巨兽.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百七十五章 解语的心思.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百七十六章 暗示.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百七十四章 夏家邀请.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百三十七章 圣朝动荡.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百三十二章 悲壮之战（求月票）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百三十五章 定计.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百九十七章 死亡游戏.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百九十九章 九婴之死.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百九十八章 九州之地，唯我无双.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百九十六章 圣兽九婴.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百九十四章 海底宫殿（二更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百二十二章 周圣王的执念.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百二十五章 两军交战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百二十八章 无量尺、金凰剑.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百二十章 备战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百五十九章 尤蚩的狠决.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百五十二章 圣王到来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百五十八章 伏击.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百八十一章 夏青鸢.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百八十九章 崖州城.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百八十章 达成一致.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百六十一章 道台汇合.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百六十七章 斗战渡劫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百六十三章 羿昇的荣幸.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百六十九章 斗战入圣.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百六十二章 滚出来.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百六十六章 何等气魄.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百四十三章 圣徒.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百四十九章 试药.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百四十八章 见姜圣.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百四十六章 许大先生.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百零三章 决定.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百零九章 棋圣之局.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第八百零二章 两卦.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六十一章 你不是男人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六十二章 余生拜师.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百一十三章 赌战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百一十九章 战局.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百七十八章 踩死.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百七十章 道心无暇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百三十七章 最悲惨的金榜第一.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百三十九章 炼金城第一天骄.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百三十六章 绝对强势.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百三十四章 狂暴.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百九十二章 决心.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百二十一章 炼金大会召开.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百二十九章 争取.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百二十八章 金榜.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百二十六章 命魂为祭.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百二十章 分赃.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百八十二章 请道宫出面.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百八十八章 败两大宫主.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百八十六章 道宫的决定.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百八十章 态度.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百六十七章 顾白之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百六十三章 荒州强者齐聚.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百六十八章 万象神引.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百六十四章 提亲.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百四十一章 王侯巅峰之战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百四十三章 圆满.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百四十九章 迷失.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百四十章 借势破境.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百零一章 干净利落.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百零九章 道战第一和道榜第一.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百零五章 琴谷.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六百零八章 良苦用心.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第六章 有龙出没.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第十七章 我不服.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第十九章 余波.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第十五章 太嚣张了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第十六章 年少轻狂.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第十四章 论战.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第十章 一鸣惊人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四十九章 暴力.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四十章 出山.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百一十一章 谁要第三.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百一十七章 不要侮辱剑客.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百一十九章 王语晴.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百一十五章 改口.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百一十章 天神下凡.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百七十一章 扶持.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百七十七章 当横压一代.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百七十五章 不服.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百七十八章 战天位之巅.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百三十一章 御龙法师.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百三十三章 仙阁新主人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百九十一章 暗流.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百九十三章 不见幕后.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百九十九章 黄雀在后.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百九十八章 威压九霄宫.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百九十六章 不肯交人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百九十章 将门看好了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百二十三章 龙府.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百二十四章 动手.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百二十四章 贪图享乐？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百八十九章 带走（补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百八十章 喜事.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百六十二章 浑水摸鱼.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百六十八章 查人.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百六十章 武运真意.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百四十三章 你也配？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百四十章 天价.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百章 赶人（补更）.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百零一章 卧底.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百零三章 王林峰的决断.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百零五章 道歉.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/第四百零八章 许败不许胜？.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/这个月更新.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novels/重要通知，要上架了.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_colly/go.sum" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go_grpc/go_grpc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_colly/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/test_colly/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_colly/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/test_colly/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +973,12 @@
   </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../proiect2021/GO/pkg/mod/github.com/gocolly/colly@v1.2.0/colly.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../proiect2021/GO/pkg/mod/github.com/gocolly/colly@v1.2.0/htmlelement.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../proiect2021/GO/pkg/mod/github.com/gocolly/colly@v1.2.0/request.go" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../../sofm/go/src/io/io.go" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -59,19 +1009,23 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.21132076" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="go" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+  <component name="RunManager" selected="Go Build.go build golearning/colly">
+    <configuration name="go build golearning/colly" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
+      <working_directory value="$PROJECT_DIR$/test_colly" />
+      <kind value="PACKAGE" />
+      <package value="golearning/colly" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/test_colly/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build golearning/m" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -83,17 +1037,9 @@
       <filePath value="$PROJECT_DIR$/test/main.go" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="GoLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build golearning/colly" />
         <item itemvalue="Go Build.go build golearning/m" />
       </list>
     </recent_temporary>
@@ -110,7 +1056,9 @@
       <workItem from="1636790651686" duration="343000" />
       <workItem from="1636797529736" duration="1793000" />
       <workItem from="1636957680114" duration="2183000" />
-      <workItem from="1637627109743" duration="1178000" />
+      <workItem from="1637627109743" duration="1530000" />
+      <workItem from="1637636601980" duration="7550000" />
+      <workItem from="1637681405357" duration="411000" />
     </task>
     <servers />
   </component>
@@ -134,5 +1082,9 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
